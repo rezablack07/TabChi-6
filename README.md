@@ -12,8 +12,7 @@ the best bot in telegram for broadcasting and add member. The open and decompile
 
 [![https://t.me/tgMember](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-tgMember-blue.svg)](https://t.me/tgMember)
 
-<p align="center"> ![http://pic.ibot24.com/b7c05f](http://pic.ibot24.com/b7c05f)
-
+<p align="center"> <img class="td" style="vertical-align: middle;" src="https://memberplus.gq/tg2.png" alt="" width="500" height="260" /></p>
 
 TeleGram-CLI based broadcasting bot!
 
